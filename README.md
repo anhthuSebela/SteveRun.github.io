@@ -27,10 +27,10 @@ insert github's link
 - [Brooklyn Wakefield](https://www.linkedin.com/in/brooklyn-wakefield-ab5409221/), a first-year at Olin College with mic drop humor.
 
 ## Attributions of External Resources used in this project:
-[Mark Zuckerberg Photo](https://www.wired.com/2017/02/mark-zuckerbergs-answer-world-divided-facebook-facebook/)
-[Steve Photo](https://www.olin.edu/bios/steve-matsumoto)
-[Steve Body Sprite](https://www.pngitem.com/middle/iRTRhih_sans-sprite-sheet-png-transparent-png/)
-[Helicopter Image](https://toppng.com/free-image/helicopter-pixel-art-PNG-free-PNG-Images_277296)
+- [Mark Zuckerberg Photo](https://www.wired.com/2017/02/mark-zuckerbergs-answer-world-divided-facebook-facebook/)
+- [Steve Photo](https://www.olin.edu/bios/steve-matsumoto)
+- [Steve Body Sprite](https://www.pngitem.com/middle/iRTRhih_sans-sprite-sheet-png-transparent-png/)
+- [Helicopter Image](https://toppng.com/free-image/helicopter-pixel-art-PNG-free-PNG-Images_277296)
 
 ### Markdown
 
