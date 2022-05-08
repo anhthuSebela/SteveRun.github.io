@@ -19,7 +19,7 @@ insert github's link
 
 ## Team Meerkats
 - Lily Jiang, a first-year at Olin College that use Valorant to destress herself. 
-- Anh Thu Le, a second-year at Babson College that enjoy learning how foot health.  
+- Anh Thu Le, a second-year at Babson College that enjoy learning about podiatry.  
 - Brooklyn Wakefield, a first-year at Olin College with mic drop humor.
 
 ## Attributions of External Resources used in this project.
