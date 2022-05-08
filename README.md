@@ -21,7 +21,7 @@ provide appropriate link to the README here
 ## Download Game Here
 insert github's link
 
-## Team Meerkats
+## The Developer Team
 - Lily Jiang, a first-year at Olin College that use Valorant to destress herself. 
 - Anh Thu Le, a second-year at Babson College that enjoy learning about podiatry.  
 - Brooklyn Wakefield, a first-year at Olin College with mic drop humor.
