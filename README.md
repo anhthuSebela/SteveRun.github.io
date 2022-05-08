@@ -20,7 +20,7 @@ insert github's link
 ## Team Meerkats:
 - Lily Jiang 
 - Anh Thu Le
-B- rooklyn Wakefield
+- Brooklyn Wakefield
 
 ## Attributions of External Resources used in this project.
 
