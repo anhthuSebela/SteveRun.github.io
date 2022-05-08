@@ -14,13 +14,13 @@ screenshot of the game will be entered here
 
 provide appropriate link to the README here
 
-## Download Game Here:
+## Download Game Here
 insert github's link
 
-## Team Meerkats:
-- Lily Jiang 
-- Anh Thu Le
-- Brooklyn Wakefield
+## Team Meerkats
+- Lily Jiang, a first-year at Olin College that use Valorant to destress herself. 
+- Anh Thu Le, a second-year at Babson College that enjoy learning how foot health.  
+- Brooklyn Wakefield, a first-year at Olin College with mic drop humor.
 
 ## Attributions of External Resources used in this project.
 
