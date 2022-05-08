@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Steve Run!
 
-You can leaveeeeee123 the [editor on GitHub](https://github.com/anhthuSebela/SteveRun.guthub.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Steve run is a 2D infinite running game where the main character Steve is running and has to dodge Zuckerberg pyramids and Meta (use to be Facebook) drones.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
