@@ -22,9 +22,9 @@ provide appropriate link to the README here
 insert github's link
 
 ## The Developer Team
-- Lily Jiang, a first-year at Olin College that plays Valorant to destress herself. 
-- Anh Thu Le, a second-year at Babson College that enjoy learning about podiatry.  
-- Brooklyn Wakefield, a first-year at Olin College with mic drop humor.
+- [Lily Jiang](https://www.linkedin.com/in/lily-jiang-09/), a first-year at Olin College that plays Valorant to destress herself. 
+- [Anh Thu Le](linkedin.com/in/anh-thu-le-52405b200), a second-year at Babson College that enjoy learning about podiatry.  
+- [Brooklyn Wakefield](https://www.linkedin.com/in/brooklyn-wakefield-ab5409221/), a first-year at Olin College with mic drop humor.
 
 ## Attributions of External Resources used in this project.
 
