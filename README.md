@@ -1,8 +1,28 @@
 ## Welcome to Steve Run!
 
+## Goal of The Game
+
 Steve run is a 2D infinite running game where the main character Steve is running and has to dodge Zuckerberg pyramids and Meta (use to be Facebook) drones.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Unique Features
+
+## A Sneak Peek
+
+screenshot of the game will be entered here
+
+## How To Install
+
+provide appropriate link to the README here
+
+## Download Game Here:
+insert github's link
+
+## Team Meerkats:
+- Lily Jiang 
+- Anh Thu Le
+B- rooklyn Wakefield
+
+## Attributions of External Resources used in this project.
 
 ### Markdown
 
