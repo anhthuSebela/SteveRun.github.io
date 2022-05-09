@@ -1,10 +1,13 @@
 # Welcome to Steve Run!
 
-## Goal of The Game
+### Video Summary
+insert link to the video here
+
+### Goal of The Game
 
 Steve run is a 2D infinite running game where the main character Steve is running and has to dodge Zuckerberg pyramids and Meta (use to be Facebook) helicopters.
 
-## Unique Features:
+### Unique Features:
 - Steve jumps by pressing the up arrow key 
 - Steve duck by pressing the down arrow key
 - If the player does not press any keys, Steve will just run
