@@ -15,7 +15,10 @@ Steve run is a 2D infinite running game where the main character Steve is runnin
 
 ### A Sneak Peek
 
+Steve Jumping to avoid Mark Zuckerberg
 ![Image of Steve Jumping to avoid Mark Zuckerberg](https://raw.githubusercontent.com/anhthuSebela/SteveRun.github.io/main/IMG_0111.jpg)
+
+Steve
 
 ### How To Install
 
