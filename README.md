@@ -1,7 +1,7 @@
 # Welcome to Steve Run!
 
 ### Video Summary
-insert link to the video here
+[video link here](https://youtu.be/OdpR86pDZDQ)
 
 ### Goal of The Game
 
@@ -19,10 +19,13 @@ screenshot of the game will be entered here
 
 ### How To Install
 
-provide appropriate link to the README here
+Instructions will be in the README [here](https://github.com/olincollege/steve-run)
 
 ### Download Game Here
-insert github's link
+[Download here](https://github.com/olincollege/steve-run)
+
+### Project Github Page
+[Steve Run Github](https://github.com/olincollege/steve-run)
 
 ### The Developer Team
 - [Lily Jiang](https://www.linkedin.com/in/lily-jiang-09/), a first-year at Olin College that plays Valorant to destress herself. 
