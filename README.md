@@ -13,23 +13,23 @@ Steve run is a 2D infinite running game where the main character Steve is runnin
 - If the player does not press any keys, Steve will just run
 - There is a score that increases by how long Steve last in the game
 
-## A Sneak Peek
+### A Sneak Peek
 
 screenshot of the game will be entered here
 
-## How To Install
+### How To Install
 
 provide appropriate link to the README here
 
-## Download Game Here
+### Download Game Here
 insert github's link
 
-## The Developer Team
+### The Developer Team
 - [Lily Jiang](https://www.linkedin.com/in/lily-jiang-09/), a first-year at Olin College that plays Valorant to destress herself. 
 - [Anh Thu Le](https://www.linkedin.com/in/anh-thu-le-52405b200/), a second-year at Babson College that enjoy learning about podiatry.  
 - [Brooklyn Wakefield](https://www.linkedin.com/in/brooklyn-wakefield-ab5409221/), a first-year at Olin College with mic drop humor.
 
-## Attributions of External Resources used in this project:
+### Attributions of External Resources used in this project:
 - [Mark Zuckerberg Photo](https://www.wired.com/2017/02/mark-zuckerbergs-answer-world-divided-facebook-facebook/)
 - [Steve Photo](https://www.olin.edu/bios/steve-matsumoto)
 - [Steve Body Sprite](https://www.pngitem.com/middle/iRTRhih_sans-sprite-sheet-png-transparent-png/)
