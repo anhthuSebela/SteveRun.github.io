@@ -23,7 +23,7 @@ Steve crouching to avoid Meta's Helicopter
 
 ### How To Install
 
-Instructions will be in the README [here](https://github.com/olincollege/steve-run)
+Instructions will be in the README [here](https://github.com/olincollege/steve-run#readme)
 
 ### Download Game Here
 [Download here](https://github.com/olincollege/steve-run)
